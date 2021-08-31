@@ -1,5 +1,5 @@
 # EPUB-to-PDF
-Telegram bot EPUB to PDF converter, this bot is available on Telegram with the following username: [@epub_to_pdf_bot](https://t.me/epub_to_pdf_bot)
+Telegram bot EPUB to PDF converter, this bot is available on Telegram with the following username: [epubtopdf0027_bot](https://t.me/epub_to_pdf_bot)
 
 ![EPUB to PDF](icon.png)
 
