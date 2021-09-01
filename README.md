@@ -5,7 +5,7 @@ Telegram bot EPUB to PDF converter, this bot is available on Telegram with the f
 
 ### Usage
 
-Just contact the Telegram bot [@epub_to_pdf_bot](https://t.me/epub_to_pdf_bot) and send a file.epub, you will receive back a file.pdf.
+Just contact the Telegram bot [@epubtopdf0027_bot](https://t.me/epub_to_pdf_bot) and send a file.epub, you will receive back a file.pdf.
 
 
 ## Local installation (development)
